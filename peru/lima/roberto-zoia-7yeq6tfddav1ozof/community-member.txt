@@ -6,7 +6,7 @@ Organisation:
 
 ----
 
-Forum: 
+Forum: robertoz
 
 ----
 
@@ -26,4 +26,4 @@ Mastodon: @robertoz@fosstodon.org
 
 ----
 
-Linkedin: rzoi
+Linkedin: rzoianesta
